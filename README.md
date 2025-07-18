@@ -22,6 +22,20 @@
 </div>
 
 ###
+
+# Mission
+Driving smart decisions for HR, Finance and Entrepreneurs through clean analytics and stortytelling dashboards. 
+
+# About
+I create dashboards, data stories, and analytical workflows that simplify complexity and facilitate strategic decisions making using Excel, SQL, Power BI, Python, and Zoho Suite. I extract insights from HR data, financial trends, and survey results, helping teams focus on what truly matters and take action with clarity.
+
+# Skills
+* Excel
+* Power BI
+* SQL
+* Python
+* Zoho Suite
+
 <!--## Hi there 👋
 
 <!--
