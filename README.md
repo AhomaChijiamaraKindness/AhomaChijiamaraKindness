@@ -37,6 +37,13 @@ I create dashboards, data stories, and analytical workflows that simplify comple
 * Python
 * Zoho Suite
 
+# My Services
+* Dashboard Design & Data Visualization: Interactive dashboards built with Power BI and Zoho Analytics for tracking KPIs, HR performance, and financial health.
+* Financial & Cost Analysis: Budgeting, forecasting, and profitability insights using Excel, Python, and Zoho Books.
+* HR & People Analytics: Turnover analysis, payroll insights, employee engagement tracking, using Zoho People, Zoho Payroll, Zoho Analytics and Excel.
+* Survey Data Analysis: Clean-up, analyze, and present survey results to support strategic decisions and reporting.
+* Automation & Reporting Systems: Streamline routine reporting and expense tracking using Zoho Expense, Zoho Books, and custom Excel workflows.
+
 # Connect with me
 - [LinkedIn](linkedin.com/in/ahoma-chijiamara-kindness-947310234)
 - [Slack](https://join.slack.com/shareDM/zt-39lan6e82-s_6sWLL0lQeGmMg44lEajw)
