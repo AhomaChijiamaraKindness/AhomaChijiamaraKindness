@@ -1,4 +1,5 @@
 <h5 align="left">Hi 👋! I am Ahoma Chijiamara Kindness, a Data and Financial Analyst.</h5>
+Data & Financial Analyst || I Help Businesses Uncover Profitable Insights Through Clean Data, Smart Analysis & Compelling Visuals
 
 ###
 
