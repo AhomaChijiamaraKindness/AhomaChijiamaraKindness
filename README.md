@@ -37,6 +37,11 @@ I create dashboards, data stories, and analytical workflows that simplify comple
 * Python
 * Zoho Suite
 
+# Connect with me
+- [LinkedIn](linkedin.com/in/ahoma-chijiamara-kindness-947310234)
+- [Slack](https://join.slack.com/shareDM/zt-39lan6e82-s_6sWLL0lQeGmMg44lEajw)
+- [WhatsApp](https://wa.me/message/3CD3BPJEHDMMG1)
+- [Discord](https://discord.gg/622aRqDn)
 <!--## Hi there 👋
 
 <!--
