@@ -1,5 +1,5 @@
 <h5 align="left">Hi 👋! I am Ahoma Chijiamara Kindness, a Data and Financial Analyst.</h5>
-Data, Financial and HR Analyst||I help organisations and teams uncover insights, optimize operations, and drive smarter decisions.
+Data, Financial and HR Analyst||I help organisations uncover insights, optimize operations, and drive smarter decisions through clean data, smart analysis and compeling visuals.
 
 ###
 
@@ -28,7 +28,7 @@ Data, Financial and HR Analyst||I help organisations and teams uncover insights,
 Driving smart decisions for HR teams, finance department, and entrepreneurs through clean analytics and stortytelling dashboards. 
 
 # About
-I create dashboards, data stories, and analytical workflows that simplify complexity and facilitate strategic decisions making using Excel, SQL, Power BI, Python, and Zoho Suite. I extract insights from HR data, financial trends, and survey results, helping teams focus on what truly matters and take action with clarity.
+I create dashboards, data stories, and analytical workflows that simplify complexity and enable strategic decisions. Using Excel, SQL, Power BI, Python, and Zoho Suite, I extract insights from HR data, financial trends, and survey results, helping teams focus on what truly matters and take action with clarity.
 
 # Skills
 * Excel
